@@ -21,6 +21,7 @@ You can also interact with the data using a command-line chatbot powered by GPT.
 
 ## 📁 Project Structure
 
+"
 road_sentiment_ai/
 ├── src/
 │ ├── reddit_ingest.py # Ingests posts + comments
@@ -35,7 +36,7 @@ road_sentiment_ai/
 ├── .env # API keys (not committed)
 ├── requirements.txt
 └── README.md
-
+"
 
 ---
 
